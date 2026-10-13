@@ -119,7 +119,7 @@ Esse erro confirma o princípio de design mais importante do projeto: **a conta 
 
 ## Limitações conhecidas
 
-- É um conceito: não há app publicado nem código.
+- Este repositório é o conceito, sem código. O MVP publicado, com o cálculo em código, está em [flyup-folego](https://github.com/Pablit0rg/flyup-folego).
 - A estimativa de meses de fôlego assume custo de vida estável; mudanças grandes exigem novo onboarding.
 - A reserva de imposto é só uma separação sugerida, não um cálculo.
 - Integração com bancos (Open Finance) e modo por voz ficaram fora do MVP.
